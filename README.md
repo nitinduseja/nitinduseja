@@ -1,24 +1,133 @@
-<h1 align="center">Hi 👋, I'm Nitin Duseja</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# 👨‍💻 Hi there, I'm Nitin Duseja 👋  
+### Full Stack Developer | Senior Software Engineer | Problem Solver  
+> Passionate about building scalable and high-performance web applications. With 7+ years of experience, I’ve delivered impactful solutions in fintech, e-commerce, and healthcare. Let's build something great together!
 
-- 👨‍💻 All of my projects are available at [https://nitinduseja.com](https://nitinduseja.com)
+---
 
-- 📫 How to reach me **dusejanitin5@gmail.com**
+## 💻 **Tech Stack**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nitinduseja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitinduseja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dusejanitin5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dusejanitin5" height="30" width="40" /></a>
-<a href="https://instagram.com/duseja.nitin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duseja.nitin" height="30" width="40" /></a>
+### **Frontend Technologies**  
+- **Languages:** HTML5, CSS3, JavaScript, TypeScript  
+- **Frameworks & Libraries:** React.js, Vue.js, Angular 2+, Next.js, Nuxt.js, Ionic, Electron.js  
+- **State Management:** Redux, Vuex, React Context  
+- **Styling & UI:** TailwindCSS, Bootstrap, SASS, Pug  
+- **Tools:** Webpack, Babel, Git  
+
+### **Backend Technologies**  
+- **Languages:** PHP, Node.js, JavaScript  
+- **Frameworks:** Laravel, Lumen, Nest.js, Express.js, Adonis.js  
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis  
+- **Authentication:** JWT, OAuth 2.0  
+
+### **Cloud & DevOps**  
+- **Cloud:** AWS, Azure  
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions  
+- **Containerization:** Docker, Kubernetes  
+- **Monitoring:** Prometheus, Grafana, Sentry  
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nitinduseja&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&line_height=28" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinduseja&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinduseja&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dusejanitin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dusejanitin" /></a></p><br><br>
+## 🚀 **Featured Projects**
 
+### 💼 **E-commerce Platform**  
+**Tech Stack:** Node.js, Nuxt.js, Lumen, PostgreSQL  
+🔗 [Live Demo](https://moolee.mv)  
+🚀 **Key Achievements:**  
+- Architected a high-performing e-commerce platform ensuring **99.99% uptime** for millions of users.  
+- Optimized backend systems for high-volume transactions, improving performance by **50%** and reducing latency.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinduseja&show_icons=true&locale=en&layout=compact" alt="nitinduseja" /></p>
+### 📰 **Hindustan Times**  
+**Tech Stack:** Vue.js, Laravel, MySQL  
+🔗 [Live Demo](https://htcodeathon.com)  
+🚀 **Key Achievements:**  
+- Developed scalable web applications that boosted **platform traffic** by **35%**.  
+- Enhanced user engagement with custom features on **htcodeathon.com** and **hindustanolympiad.in**.
+
+### 📚 **MyLearningGraph**  
+**Tech Stack:** React.js, Node.js, MongoDB  
+🔗 [Live Demo](https://mylearninggraph.com)  
+🚀 **Key Achievements:**  
+- Developed an intelligent learning platform to **track and visualize learning progress**.  
+- Integrated data analytics and visualization tools to help users make better learning decisions.
+
+---
+
+## 🛠️ **Professional Experience**
+
+### **Senior Software Engineer** | Paytm, Noida (2021 – Present)  
+- Optimized **backend performance** of the scheduler module, reducing latency by **50%**.
+- Led the architecture and development of **high-performance e-commerce platforms** for global clients.
+- Mentored a team of **4 junior developers**, driving a **25% improvement** in team productivity.
+
+### **Software Engineer** | Mindrops Solutions Pvt Ltd, Delhi (2019 – 2021)  
+- Developed scalable applications for **Hindustan Times**, increasing engagement by **35%**.
+- Enhanced **healthcare platforms**, improving user experience and accessibility for cancer patients.
+
+### **Web Developer** | emediscene, Delhi (2018 – 2019)  
+- Built scalable applications for **GE Healthcare**, boosting client satisfaction and engagement by **30%**.
+
+### **Web Developer** | Codeodesk Technologies Pvt Ltd, Delhi (2018)  
+- Optimized e-commerce apps, increasing performance by **40%**.
+
+---
+
+## 🎓 **Education**
+
+**Master of Technology** – Software Systems (In Progress)  
+Birla Institute of Technology and Science, India  
+
+**Bachelor of Technology** – Computer Engineering  
+Shri Balwant Institute of Technology, Sonipat, India  
+
+---
+
+## 🏆 **Awards & Recognition**  
+- **Star Performer** at Paytm (2022)  
+- **Excellence Award** at Mindrops Solutions (2021)  
+- **Spot Award** at Mindrops Solutions (2020)  
+
+---
+
+## 📫 **Get in Touch**
+
+- 📧 Email: [dusejanitin5@gmail.com](mailto:dusejanitin5@gmail.com)  
+- 🦸 LinkedIn: [linkedin.com/in/nitin-duseja](https://www.linkedin.com/in/nitin-duseja)  
+- 🐦 X: [@nitinduseja](https://x.com/yourhandle)  
+
+---
+
+---
+
+## ☕ **Buy Me a Coffee**
+
+If you find my work helpful, consider buying me a coffee! ☕  
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dusejanitin&button_colour=FF813F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&outline_width=2)](https://www.buymeacoffee.com/dusejanitin)
+
+---
+
+## 🧩 **Fun Facts**
+
+- 🎧 **Music Lover**: Exploring new genres and playing guitar.
+- 🧩 **Chess Enthusiast**: Constantly learning new strategies.
+- 🌍 **Traveler**: Passionate about exploring new places and cultures.
+
+---
+
+## 💬 **Let's Collaborate!**
+I'm always open to discussing new projects and collaborations. Feel free to reach out, and let's create something impactful!
+
+---
 
